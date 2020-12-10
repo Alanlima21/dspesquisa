@@ -58,7 +58,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/Alanlima21/dspesquisa.git
 
 # entrar na pasta do projeto front end web
 cd front-web
@@ -72,7 +72,6 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
+ALan Souza Lima
+email: alan.lima123@hotmail.com
 
