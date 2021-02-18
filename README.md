@@ -72,6 +72,6 @@ yarn start
 
 # Autor
 
-ALan Souza Lima
+Alan Souza Lima
 email: alan.lima123@hotmail.com
 
