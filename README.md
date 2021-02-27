@@ -44,7 +44,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/Alanlima21/dspesquisa.git
 
 # entrar na pasta do projeto back end
 cd backend
@@ -73,5 +73,6 @@ yarn start
 # Autor
 
 Alan Souza Lima
+<br></br>
 email: alan.lima123@hotmail.com
 
